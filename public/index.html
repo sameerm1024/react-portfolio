@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta name="theme-color" content="#000000" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;700;900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <link rel="stylesheet" href="%PUBLIC_URL%/css/default.css" />
+    <link rel="stylesheet" href="%PUBLIC_URL%/css/layout.css" />
+    <link rel="stylesheet" href="%PUBLIC_URL%/css/media-queries.css" />
+    <link rel="stylesheet" href="%PUBLIC_URL%/css/magnific-popup.css" />
+    <link rel="icon" href="favicon.ico" />
+    <title>Sameer Mohammad | Mobile Developer</title>
+  </head>
+
+  <body>
+    <noscript> You need to enable JavaScript to run this app. </noscript>
+    <div id="root"></div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script>
+      window.jQuery ||
+        document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')
+    </script>
+    <script src="./js/jquery-migrate-1.2.1.min.js"></script>
+
+    <script src="./js/jquery.flexslider.js"></script>
+    <script src="./js/waypoints.js"></script>
+    <script src="./js/jquery.fittext.js"></script>
+    <script src="./js/magnific-popup.js"></script>
+    <script src="./js/init.js"></script>
+    <script type="module">
+      // Import the functions you need from the SDKs you need
+      import { initializeApp } from "https://www.gstatic.com/firebasejs/10.10.0/firebase-app.js";
+      import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.10.0/firebase-analytics.js";
+      const firebaseConfig = {
+        apiKey: "AIzaSyCAsIuxzl9D1GZmZSGcdtab5hX-rfmWNCs",
+        authDomain: "sameerm-1024.firebaseapp.com",
+        projectId: "sameerm-1024",
+        storageBucket: "sameerm-1024.appspot.com",
+        messagingSenderId: "81191421512",
+        appId: "1:81191421512:web:13f61afb608b3357473a7d",
+        measurementId: "G-572XRXHH82"
+      };
+    
+      // Initialize Firebase
+      const app = initializeApp(firebaseConfig);
+      const analytics = getAnalytics(app);
+    </script>
+  </body>
+</html>
