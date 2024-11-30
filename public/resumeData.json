@@ -2,18 +2,18 @@
   "main": {
     "firstName": "Sameer",
     "name": "Sameer Mohammad",
-    "occupation": "Mobile Developer",
-    "description": "Crafting apps by day and dreaming of innovative solutions by night.",
+    "occupation": "Application Developer",
+    "description": "Crafting applications by day and dreaming of innovative solutions by night.",
     "image": "jeff-cropped.jpg",
     "bio": "Enthusiastic about software engineering, I thrive on challenges and strive to make a difference through technology. Pursuing opportunities to empower possibilities and drive innovation is my next endeavor.",
     "contactmessage": "Get in touch with me to receive further details.",
-    "email": "2mohdsameer1024@gmail.com",
+    "email": "sameerm1853@gmail.com",
     "address": {
       "city": "Visakhapatnam",
       "state": "Andhra Pradesh"
     },
     "website": "/",
-    "resumedownload": "/",
+    "resumedownload": "https://drive.google.com/file/d/17bYD6OeDPHvCK5SNeQQgHPB0LpYWlu-_/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -56,46 +56,52 @@
     ],
     "work": [
       {
-        "company": "I&T Labs",
-        "title": "Frontend Developer Intern",
-        "years": "July 2023 - November 2023",
-        "description": "\nEnsured visually appealing and responsive user interfaces while collaborating effectively with the team to provide valuable insights, contributing to project success."
-      },
-      {
         "company": "iPro",
         "title": "Software Engineering Intern",
         "years": "May 2023 - June 2023",
         "description": "Led development of a high-quality website utilizing HTML, CSS, and PHP, integrated with XAMPP for backend operations, meeting project specifications."
+      },
+      {
+        "company": "I&T Labs",
+        "title": "Frontend Developer Intern",
+        "years": "December 2023 - May 2024",
+        "description": "Ensured visually appealing and responsive user interfaces while collaborating effectively with the team to provide high quality website, contributing to project success."
+      },
+      {
+        "company": "IT Software Consultancy Services",
+        "title": "IoT(ML) Intern",
+        "years": "May 2024 - June 2024",
+        "description": "Ensured visually appealing and responsive user interfaces while collaborating effectively with the team to provide high quality website, contributing to project success."
       }
     ],
     "skills": [
       {
-        "name": "Android Studio",
-        "level": "80%"
-      },
-      {
         "name": "Java",
         "level": "85%"
-      },
-      {
-        "name": "Kotlin",
-        "level": "80%"
       },
       {
         "name": "Python",
         "level": "75%"
       },
       {
+        "name": "React.JS",
+        "level": "60%"
+      },
+      {
         "name": "Git & Github",
         "level": "90%"
       },
       {
-        "name": "Microsoft Azure",
+        "name": "SQL & MongoDB",
+        "level": "70%"
+      },
+      {
+        "name": "Internet of Things(IOT)",
         "level": "80%"
       },
       {
-        "name": "Firebase",
-        "level": "80%"
+        "name": "Android Studio",
+        "level": "60%"
       }
     ]
   },
@@ -104,26 +110,26 @@
       {
         "title": "Weather Application",
         "category": "Android Studio, Kotlin, API connections",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "image": "3.png",
+        "url": "https://github.com/sameerm1024/weather_application"
       },
       {
         "title": "Smart Waste Collector",
         "category": "Ultra Sonic Sensors, Arduino board, Servo motor, VS Code, IFTTT, ThingSpeak",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "image": "bin.webp",
+        "url": "https://github.com/sameerm1024/smart_waste_collector"
       },
       {
-        "title": "Automated Fire Extinguishing System",
-        "category": "Flame detection sensors, VS Code, Solenoid valve, IFTTT, ThingSpeak",
-        "image": "tiktok-mern.jpeg",
+        "title": "Industrial Safety Detection System",
+        "category": "ESP 32 CAM, YOLO Object Detection, VS Code, Arduino IDE",
+        "image": "safety.webp",
         "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
       },
       {
-        "title": "Language Translator Web Application:",
+        "title": "Language Translator Web Application",
         "category": " HTML, CSS, API integration, Natural Language Processing (NLP) model",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+        "image": "translator.png",
+        "url": "https://github.com/sameerm1024/language_translator_webapplication"
       }
     ]
   }

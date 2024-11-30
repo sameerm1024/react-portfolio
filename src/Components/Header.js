@@ -65,7 +65,7 @@ class Header extends Component {
               <span style={{ color: '#d1002b' }}>.</span>
             </h1>
             <h3>
-              I'm a <span>{occupation}</span> from {city}. {description}.
+              I'm an <span>{occupation}</span> from {city}. {description}
             </h3>
             <hr />
             <ul className='social'>{networks}</ul>

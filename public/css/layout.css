@@ -132,7 +132,7 @@ header .scrolldown {
 }
 
 header .scrolldown a {
-  position: absolute;
+  position: relative;
   bottom: 180px;
   left: 50%;
   margin-left: -29px;
